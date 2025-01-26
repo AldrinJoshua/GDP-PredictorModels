@@ -1,0 +1,1 @@
+The models are located in their respective branches. In the final system, we have decided to use the SimpleRNN model as it gave the most accurate results (measured using RMSE) compared to the other two models.
